@@ -1,4 +1,4 @@
 buala-android
 =============
 
-Desing for Bualá! jobs android-app
+Design for Bualá! jobs android-app
